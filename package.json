@@ -1,0 +1,19 @@
+{
+  "name": "temperature-capture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "tc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0"
+  }
+}
